@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KeyboardTool.iml" filepath="$PROJECT_DIR$/KeyboardTool.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/keyboardlistener/keyboardlistener.iml" filepath="$PROJECT_DIR$/keyboardlistener/keyboardlistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okkeyboard/keyboardlistener.iml" filepath="$PROJECT_DIR$/okkeyboard/keyboardlistener.iml" />
     </modules>
   </component>
 </project>
